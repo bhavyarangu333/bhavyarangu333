@@ -11,10 +11,6 @@ Cloud: AWS (Lambda, S3), AWS Migration, CI/CD Pipelines
 Version Control: Git, GitHub, Visual Safe Source
 Others: RESTful APIs, Microservices, WCF, AJAX, SSIS, WCF
 
-📫 **How to Reach Me**
-Email: bhavyarangu0309@gmail.com
-LinkedIn: Bhavya Rangu
-Portfolio: View My Work
 🌱 **I’m Currently Learning**
 Deepening my knowledge in Cloud Computing with AWS.
 Enhancing skills in Microservices and Machine Learning.
